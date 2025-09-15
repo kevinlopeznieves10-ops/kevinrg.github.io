@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Escucha videos y visualizadores de Junior H en línea.">
+  <meta name="keywords" content="Junior H, música, visualizers, videos, SAD BOYZ II, Piensalo">
+  <meta name="author" content="Kevin López">
+
+  <title>Album de SAD BOYZ II LIFE</title>
+</head>
+<body>
+  <style>
+        body {
+            background-color:rgb(142, 35, 156);
+        }
+        h1{
+            color: rgb(0, 0, 0)
+        }
+        p{
+            color: rgb(252, 0, 0);
+        }
+  </style>     
+
+  <h1>Videos oficiales / visualizers de Junior H</h1>
+      <img src="/imagen/juniorh.png" alt="juniorh" width="180" height="180"
+
+  <main>
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>Y LLORO</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/a8M1Es4cI_4"
+          title="Junior H - Y LLORO (Official Video)"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+          <img src="miimagen/y lloro.png" 
+          alt="Portada"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+          object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>SAD BOYZ II</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/A9M8j9MKl7I"
+          title="Junior H - SAD BOYZ II [Video Oficial]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+          <img src="miimagen/sad boyz 2.png" 
+          alt="Portada"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+          object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>LA CHERRY (Visualizer)</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/H4G1CKIVvhk"
+          title="Junior H - LA CHERRY Official Visualizer"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+          <img src="miimagen/la cherry.png" 
+          alt="Portada"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+          object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+      
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>MILES DE ROSAS (Visualizer)</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/JSq4W5N3VO4"
+          title="Junior H - MILES DE ROSAS [Official Visualizer]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      
+          <img src="miimagen/miles de rosas.png" 
+          alt="Portada"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+          object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>PIÉNSALO (Visualizer)</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/nGP6ZjWTBew/"
+          title="Junior H - Piensalo Official Visualizer"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      
+          <img src="miimagen/piensalo.png" 
+          alt="Portada"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+          object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>ROCKSTAR (Visualizer)</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/J3SfXiCFLGU"
+          title="Junior H - ROCKSTAR [Official Visualizer]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+            <img src="miimagen/Rockstar.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>SERPIENTE</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/Tq0k-ebrwkI"
+          title="Junior H - SERPIENTE [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+         
+            <img src="miimagen/serpiente.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>MIÉNTELE</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/EvLt-Xj9Pjg"
+          title="Junior H - MIÉNTELE [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+            <img src="miimagen/mientele.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>LAS NOCHES</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/Tq0k-ebrwkI"
+          title="Junior H - LAS NOCHES [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+            <img src="miimagen/las noches.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>TRES BOTELLAS</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/EvLt-Xj9Pjg"
+          title="Junior H - TRES BOTELLAS [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+            <img src="miimagen/tres botellas.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>PARIS</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/EvLt-Xj9Pjg"
+          title="Junior H - PARIS [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+            <img src="miimagen/paris.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>OTRO AMOR</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/EvLt-Xj9Pjg"
+          title="Junior H - OTRO AMOR [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+            <img src="miimagen/otro amor.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>EN LA PEDA</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/EvLt-Xj9Pjg"
+          title="Junior H - EN LA PEDA [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+            <img src="miimagen/en la peda.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>A TU NOMBRE</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/EvLt-Xj9Pjg"
+          title="Junior H - A TU NOMBRE [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+            <img src="miimagen/a tu nombre.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>LOKERON X AMOR</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/EvLt-Xj9Pjg"
+          title="Junior H - LOKERON X AMOR [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+            <img src="miimagen/lokeron x amor.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>MIENTRAS DUERMES</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/AR9R8_Gzm8Y"
+          title="Junior H - MIENTRAS DUERMES [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
+            <img src="miimagen/mientras tu duermes.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+
+      <hr>
+
+      <div style="position: relative; width: 600px; height: 280px;">
+        <h2>ENTRE NOSOTROS</h2>
+        <iframe width="400" height="180"
+          src="https://www.youtube.com/embed/Fb7Nnt8UJcs"
+          title="Junior H - ENTRE NOSOTROS [Official Video]"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+       </iframe>
+
+            <img src="miimagen/entre nosotros.png" 
+            alt="Portada"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; pointer-events: none;">
+      </div>
+  
+  </main>
+
+    <footer>
+      <h4>Redes sociales</h4>
+      <a href="https://www.instagram.com/juniorh/?hl=es" target="_blank"> Instagram de Junior H
+      </a>
+      <hr>
+      <a href="https://www.youtube.com/@JuniorH_Oficial" target="_blank"> YouTube de Junior H</a>
+      <h3 >Copyright 2025 Todos los derechos reservados. Junior H, Antonio Herrera Pérez.</h3>
+      <h3 >Copyright 2025 Todos los derechos reservados. kevin lopez N.
+      </h3>
+      <h3>esta pagina esta hecha para conocer a junior y un proyecto de escuela</h3>
+    </footer>
+
+
+</body>
+</html>
